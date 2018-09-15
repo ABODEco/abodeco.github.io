@@ -1441,7 +1441,7 @@ input::-moz-focus-inner {
 .subhead::after {
   content: "";
   display: block;
-  background-color: #F26522;
+  background-color: #0ba022;
   height: 1px;
   margin-top: -1px;
   width: 4.5rem;
