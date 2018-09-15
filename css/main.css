@@ -386,7 +386,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #F26522;
+  background: #0ba022;
   position: absolute;
   left: -17px;
   top: 11px;
@@ -395,7 +395,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #F26522;
+  color: #0ba022;
 }
 
 dd {
@@ -521,7 +521,7 @@ form,
 }
 
 .pace .pace-progress {
-  background: #F26522;
+  background: #0ba022;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -901,7 +901,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #F26522;
+  -webkit-text-fill-color: #0ba022;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -960,8 +960,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #F26522;
-  border-color: #F26522;
+  background: #0ba022;
+  border-color: #0ba022;
   color: #FFFFFF;
 }
 
@@ -1231,7 +1231,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #F26522;
+  color: #0ba022;
 }
 
 .stats-tabs li a em {
@@ -2078,7 +2078,7 @@ input::-moz-focus-inner {
 }
 
 .home-content__video .video-link:hover .video-icon {
-  background-color: #F26522;
+  background-color: #0ba022;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2109,7 +2109,7 @@ input::-moz-focus-inner {
 }
 
 .home-content__scroll .scroll-link:hover {
-  color: #F26522;
+  color: #0ba022;
 }
 
 .home-content__scroll::after {
@@ -2176,7 +2176,7 @@ input::-moz-focus-inner {
   background-color: #151515;
   font-size: 1.2rem;
   line-height: 30px;
-  color: #F26522;
+  color: #0ba022;
   right: 50px;
   padding: 0 15px;
   margin: 3px 0;
@@ -2681,7 +2681,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-services a {
-  color: #F26522;
+  color: #0ba022;
 }
 
 .s-services a:hover,
@@ -2869,7 +2869,7 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link:hover,
 .item-folio__project-link:focus,
 .item-folio__project-link:active {
-  background-color: #F26522;
+  background-color:# 0ba022;
   color: #FFFFFF;
 }
 
@@ -3179,7 +3179,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-clients a {
-  color: #F26522;
+  color: #0ba022;
 }
 
 .s-clients a:hover,
