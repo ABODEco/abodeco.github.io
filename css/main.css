@@ -2567,7 +2567,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .about-process .item-process__header--implementation::before {
-  background-image: url(../images/icons/icon-implementation.svg);
+  background-image: url(../images/icons/Julian.png);
 }
 
 .about-process .item-process__header--documentation::before {
