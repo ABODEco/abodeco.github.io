@@ -2559,11 +2559,11 @@ html.no-csstransitions .home-content__main {
 }
 
 .about-process .item-process__header--planning::before {
-  background-image: url(../images/icons/icon-planning.svg);
+  background-image: url(../images/icons/Russel.png);
 }
 
 .about-process .item-process__header--branding::before {
-  background-image: url(../images/icons/icon-branding.svg);
+  background-image: url(../images/icons/Joe.png);
 }
 
 .about-process .item-process__header--implementation::before {
